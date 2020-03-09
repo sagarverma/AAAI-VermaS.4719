@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: AAAI-VermaS.4719.aux
+The style file: aaai.bst
+Database file #1: ref.bib
+Repeated entry---line 794 of file ref.bib
+ : @inproceedings{silva2013fault
+ :                              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 956 of file ref.bib
+ : 
+ : booktitle={International Conference on Learning Representations 2016}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty publisher in Sylvester1987
+Warning--empty publisher in NIPS2016_6172
+Warning--empty publisher in Siskind1978cpts
+You've used 30 entries,
+            2568 wiz_defined-function locations,
+            751 strings with 9824 characters,
+and the built_in function-call counts, 13134 in all, are:
+= -- 1371
+> -- 555
+< -- 7
++ -- 192
+- -- 188
+* -- 1064
+:= -- 2095
+add.period$ -- 149
+call.type$ -- 30
+change.case$ -- 212
+chr.to.int$ -- 30
+cite$ -- 33
+duplicate$ -- 519
+empty$ -- 947
+format.name$ -- 243
+if$ -- 2759
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 182
+num.names$ -- 90
+pop$ -- 200
+preamble$ -- 1
+purify$ -- 244
+quote$ -- 0
+skip$ -- 401
+stack$ -- 0
+substring$ -- 682
+swap$ -- 131
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 232
+warning$ -- 3
+while$ -- 90
+width$ -- 34
+write$ -- 410
+(There were 2 error messages)
